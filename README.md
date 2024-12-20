@@ -44,7 +44,7 @@ Este proyecto emplea las siguientes tecnologías:
 - Analizar la distribución de causas de muerte.
 
 ## Licencia
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE en el repositorio.
+Este proyecto está bajo la Licencia MIT.
 
 
 
